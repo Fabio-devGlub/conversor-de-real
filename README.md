@@ -68,10 +68,13 @@ convert-money
 ```
 index.html
 ```
-
 no navegador.
 
 ---
+
+🌍 Link do deploy
+
+https://fabio-devglub.github.io/conversor-de-real/
 
 ## 📚 Aprendizados
 
